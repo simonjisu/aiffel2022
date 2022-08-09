@@ -1,0 +1,2 @@
+Write using `write` method.Write using `print` function.
+End of document

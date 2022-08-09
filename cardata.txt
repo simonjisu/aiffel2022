@@ -1,0 +1,4 @@
+Model, Company, Type, Price
+Model3, Tesla, electronic, 55000000
+Genesis GV70, Hyundai, diesel, 48000000
+K7, Kia, gasoline, 40000000
