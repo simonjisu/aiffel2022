@@ -25,7 +25,7 @@ canvas = Canvas(master, width=width, height=height, bg='white')
 canvas.pack()
 
 # create an empty PIL image and draw object to draw on
-output_image = PIL.Image.new("RGB", (width, height), white)
+output_image = PIL.Image.new("L", (width, height), 0)
 draw = ImageDraw.Draw(output_image)
 canvas.pack(expand=YES, fill=BOTH)
 canvas.bind("<B1-Motion>", paint)
