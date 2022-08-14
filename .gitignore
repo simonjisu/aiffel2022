@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 __pycache__
 checkpoints
+data/cifar10/
+data/cats_vs_dogs/

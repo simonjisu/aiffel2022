@@ -11,6 +11,8 @@ scikit-learn = "*"
 matplotlib = "*"
 seaborn = "*"
 tensorflow = "*"
+tensorflow-datasets = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
