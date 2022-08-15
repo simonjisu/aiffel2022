@@ -13,6 +13,7 @@ seaborn = "*"
 tensorflow = "*"
 tensorflow-datasets = "*"
 ipywidgets = "*"
+gensim = "*"
 
 [dev-packages]
 
